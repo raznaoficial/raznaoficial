@@ -1,0 +1,17 @@
+name: Raznaoficial
+
+on: [pull_request_target, issues]    
+
+jobs:ROF
+  greeting:
+    runs-on: ubuntu-latest
+    permissions:https://github.com/raznaoficial/raznaoficial.git
+      issues: write
+      pull-requests: write
+    steps:
+    - uses: actions/first-interaction@v1
+      with:
+        repo-token: ${{ secrets.ROF_TOKEN }}
+        issue-message:_https://explorer.elrond.com/tokens/ROF-c85ab7_
+
+        pr-message: 
