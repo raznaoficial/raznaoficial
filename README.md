@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @raznaoficial
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning CNC
-- 💞️ I’m looking to collaborate on Elrond Comunity
+-  Hi, I’m "@raznaoficial" Andrei Iagaru
+-  I’m interested in crypto/Web3/blokchain
+-  I’m currently learning (coding)
+-  I have completed CNC and FM&E training
+-  I’m looking to build on MultiversX 
 
 <!---
 raznaoficial/raznaoficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
